@@ -1,5 +1,3 @@
-### I’m @mateolarrea 
-
 - **HCI Researcher** & **2nd-year Master’s student** at **Stanford University (CCRMA)**
 - I work at the intersection of **human–AI co-creation**, **computational creativity**, and **multimodal interaction**
 - Research interests: **generative agents**, **domain-specific languages**, **creative AI tools**, **spatial audio**, and **human–computer interaction**
