@@ -6,7 +6,7 @@
 - [SATIE](https://github.com/mateolarreaferro/SatieLang): Human-in-the-Loop Generative Tool for Spatial Audio (Domain-Specific Language)
 - [HeadWave](https://github.com/mateolarreaferro/HeadWave): Human-in-the-Loop Generative Tool for Biofeedback Art (Visual Programming Language)
 - [Dr. C](https://github.com/mateolarreaferro/Dr.C): Human-in-the-Loop Generative Csound Agent and Interface (Command-Line Interface)
-
+- [Theo](https://github.com/mateolarreaferro/Theo): Human-in-the-Loop Generative Tool for Writing (Domain-Specific Generative Language)
 #### Favorites
 - [Ansantuario](https://github.com/mateolarreaferro/Ansantuario): Post-It App for Strong Ties
 - [The Last Acorn](https://github.com/mateolarreaferro/TheLastAcorn/tree/main): A Contemplative Videogame
