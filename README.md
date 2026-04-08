@@ -3,7 +3,7 @@
 - Research interests: **generative agents**, **domain-specific languages**, **creative AI tools**, **spatial audio**, and **human–computer interaction**
 
 #### Current Human–AI Co-Creation Projects
-- [SATIE](https://github.com/mateolarreaferro/SatieLang): Human-in-the-Loop Generative Tool for Spatial Audio (Domain-Specific Language)
+- [SATIE](https://www.satie.live/): Human-in-the-Loop Generative Tool for Spatial Audio (Domain-Specific Language)
 - [HeadWave](https://github.com/mateolarreaferro/HeadWave): Human-in-the-Loop Generative Tool for Biofeedback Art (Visual Programming Language)
 - [Dr. C](https://github.com/mateolarreaferro/Dr.C): Human-in-the-Loop Generative Csound Agent and Interface (Command-Line Interface)
 - [Theo](https://github.com/mateolarreaferro/Theo): Human-in-the-Loop Generative Tool for Writing (Domain-Specific Generative Language)
